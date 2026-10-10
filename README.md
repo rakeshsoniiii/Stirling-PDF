@@ -23,7 +23,7 @@ Stirling PDF is a powerful, open-source PDF editing platform. Run it as a person
 
 ![Stirling PDF - Dashboard](docs/images/home-light.png)
 
-## Key Capabilities
+## Key Capabilities.
 
 - **Everywhere you work** - Desktop client, browser UI, and self-hosted server with a private API.
 - **50+ PDF tools** - Edit, merge, split, sign, redact, convert, OCR, compress, and more.
